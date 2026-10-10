@@ -1,0 +1,3 @@
+OpenMinis GitHub MCP write test
+Test date: 2026-10-10
+Purpose: Verify file creation on a test branch.
