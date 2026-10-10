@@ -1,0 +1,1 @@
+# openminis-mcp-test
