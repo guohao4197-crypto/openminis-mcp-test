@@ -1,5 +1,6 @@
 def main():
-print("Hello from OpenMinis GitHub MCP!")
+    print("Hello from OpenMinis GitHub MCP!")
 
-if name == "main":
-main()
+
+if __name__ == "__main__":
+    main()
